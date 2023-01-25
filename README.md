@@ -2,4 +2,4 @@
 <p align="left">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arooshap)](https://git.io/streak-stats)
+
